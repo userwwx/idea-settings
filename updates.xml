@@ -1,0 +1,11 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="IU-221.6008.13" />
+    <option name="LAST_TIME_CHECKED" value="1677553077556" />
+    <pluginHosts>
+      <item value="https://idekit.sankuai.com/repository/plugins.xml" />
+      <item value="https://sonic.sankuai.com/repository/plugins.xml" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

@@ -1,0 +1,14 @@
+<templateSet group="selfDefine">
+  <template name="on" value="Objects.isNull($VAR$)" description="generator Objects.isNull()" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR" expression="complete()" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="onn" value="Objects.nonNull($VAR$)" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="complete()" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

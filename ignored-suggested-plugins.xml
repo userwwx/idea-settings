@@ -1,0 +1,12 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.haulmont.jpab" />
+        <option value="com.intellij.spring.webflow" />
+        <option value="aws.toolkit" />
+        <option value="idea.plugin.protoeditor" />
+      </list>
+    </option>
+  </component>
+</application>
